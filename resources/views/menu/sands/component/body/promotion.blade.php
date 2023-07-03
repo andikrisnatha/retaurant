@@ -2,7 +2,8 @@
     <div class="container-fluid" data-aos="fade-up">
         <div class="section-header">
             {{-- <h2>Promotions</h2> --}}
-            <p>What's<span> On</span> Sands Restaurant</p>
+            <p>What's<span> On</span></p>
+            <em class="m-2">From enticing dining experiences to exclusive package, our resort has something special for you to enjoy</em>
         </div>
         <div class="slides-3 swiper" data-aos="fade-up" data-aos-delay="50">
             <div class="swiper-wrapper">

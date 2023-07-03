@@ -2,7 +2,8 @@
     <div class="container" data-aos="fade-up">
         <div class="section-header">
             {{-- <h2>gallery</h2> --}}
-            <p>Check <span>Our Gallery</span></p>
+            <p>Our <span>Gallery</span></p>
+            <em>Your window into the extraordinary world of our resort</em>
         </div>
         <div class="gallery-slider swiper">
             <div class="swiper-wrapper align-items-center">

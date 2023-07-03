@@ -25,7 +25,7 @@
                         {{ $menu->title_4 }} {{'IDR ' .number_format($menu->price_4, 0) }} <br>
                         @endif
                     </p>
-                    <a href="{{ $menu->video_url }}" target="_blank"><i class="fa fa-circle-play"></i> Click here to see how the food is prepared</a>
+                    <a href="{{ $menu->video_url }}" target="_blank"><i class="fa fa-circle-play"></i>data-aos="fade-up" data-aos-delay="300"></a>
                 </div>
                 @endforeach
         </div>

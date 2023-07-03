@@ -2,7 +2,8 @@
     <div class="container" data-aos="fade-up">
         <div class="section-header">
             {{-- <h2>Contact</h2> --}}
-            <p>Need Help? <span>Contact Us</span></p>
+            <p>Contact <span>Us</span></p>
+            <em>We look forward to hearing from you and making your stay exceptional</em>
         </div>
         <div class="mb-3">
             <iframe style="border:0; width: 100%; height: 350px;"

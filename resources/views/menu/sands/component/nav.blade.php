@@ -1,8 +1,8 @@
 <header id="header" class="header fixed-top d-flex align-items-center">
 
-    <div class="container d-flex align-items-center justify-content-between">
+    <div class="container d-flex align-items-center justify-content-between" data-aos="fade-in" data-aos-delay="300">
         <a href="#" class="logo d-flex align-items-center me-auto me-lg-0">
-            <img class="img-fluid" src="assets/img/sandslogo.png" alt="">
+            <img class="img-fluid" src="https://anvayabali.com/anvayamenu/yummy/assets/img/sandslogo.png" alt="">
         </a>
         <nav id="navbar" class="navbar">
             <ul>

@@ -21,7 +21,7 @@ class SandsMenuController extends Controller
     {
          // $categoryId = $request->get('category', 1);
          $keyword = $request->get('q', null);
-         $menus = SandsMenu::all();
+         $menus = SandsMenu::where('status', 1)->get();
          $promotions = Promotion::where('status', true)->get();
         //  $categories = CategorySands::with(['menus'])->get();
          $categories = CategorySands::with(['menus' => function($q) use ($keyword) {
